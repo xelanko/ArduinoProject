@@ -5,13 +5,13 @@ Tetris on an 8×8 LED matrix, driven by Arduino Uno and two 74HC595 shift regist
 
 A playable Tetris game running on an Arduino Uno, displayed on an 8×8 LED matrix driven by two 74HC595 shift registers. Includes three control buttons, a buzzer, and a status LED for game-over feedback.
 
-![Demo](demo.gif)
+> [Demo](demo.gif)
 
 > **Simulation:** [Open the project in Tinkercad](https://www.tinkercad.com/things/54RjZM6j1tC-arduinocircuit?sharecode=nqeSydInjYMYq-jCfSDvliAgFJQ5fIKrk50URqtUgTM)
 
 ## Circuit
 
-![Circuit diagram](schematic.png)
+> [Circuit diagram](schematic.png)
 
 ## Features
 
